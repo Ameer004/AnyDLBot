@@ -85,7 +85,7 @@ Just Send me a YouTube url to download it in video or audio format!
                                         InlineKeyboardButton("🤖 Bot Coder", url="https://t.me/meerfreak"),
                                         InlineKeyboardButton('Chat 📢', url="https://t.me/meerfreak")
                                     ],[
-                                        InlineKeyboardButton('❤️ Favorite site🔻", url="https://youtube.com"),
+                                        InlineKeyboardButton("❤️ Favorite site🔻", url="https://youtube.com"),
                                     ]]
                             ),        
             disable_web_page_preview=True,        
